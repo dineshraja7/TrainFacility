@@ -199,8 +199,10 @@ public class TrainSchedule{
 				
 					 if(currentStation.stationFacility.contains(cde)){
 					 System.out.println("The station which having this facility is------>");
-					 currentTrain.print();
 					 currentStation.print();
+					 currentTrain.print();
+						 
+					
 					 
 					 
 				
